@@ -1,4 +1,4 @@
-//document.getElementById("count-el").innerText=5.log(count)
+
 let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
 let count = 0
